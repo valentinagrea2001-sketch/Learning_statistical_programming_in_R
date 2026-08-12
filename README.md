@@ -1,2 +1,3 @@
 # statistics
-# statistics
+
+This is a collection of exercises from the book ...
