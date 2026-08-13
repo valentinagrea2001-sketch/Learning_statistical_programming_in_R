@@ -2,6 +2,6 @@
 
 Hi! I am a mathematician with a background in probability theory and stochastic processes. This collection of exercises have the aim of improving my knowledge in statistics and in statistical programming.
 
-Lez 1 : basics of statistics and descriptive statistics in R
-Lez 2 : probability theory and random experiments in R
+Lez 1 : basics of statistics and descriptive statistics in R \\
+Lez 2 : probability theory and random experiments in R \\
 Lez 3 : sampling distributions
