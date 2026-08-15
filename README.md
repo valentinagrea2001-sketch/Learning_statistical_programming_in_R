@@ -6,4 +6,4 @@ Lez 1 : basics of statistics and descriptive statistics in R
 
 Lez 2 : probability theory and random experiments in R       
 
-Lez 3 : sampling distributions
+Lez 3 : sampling distributions of sample mean and other statistics, with plots in R
