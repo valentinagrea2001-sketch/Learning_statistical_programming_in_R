@@ -10,4 +10,4 @@ Lez 3 : sampling distributions of sample mean and other statistics, with plots i
 
 Lez 4 : standard normal distribution, chi-squared distribution, student's t-distribution, cauchy distribution
 
-      : point and confidence interval estimation
+Lez 4 : point and confidence interval estimation
