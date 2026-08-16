@@ -7,3 +7,5 @@ Lez 1 : basics of statistics and descriptive statistics in R
 Lez 2 : probability theory and random experiments in R       
 
 Lez 3 : sampling distributions of sample mean and other statistics, with plots in R
+
+Lez 4 : standard normal distribution, chi-squared distribution, student's t-distribution, cauchy distribution
