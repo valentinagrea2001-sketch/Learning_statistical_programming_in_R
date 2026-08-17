@@ -10,10 +10,10 @@ Lez 3 : sampling distributions of sample mean and other statistics, with plots i
 
 Lez 4 : standard normal distribution, chi-squared distribution, student's t-distribution, cauchy distribution
 
------- : point estimate and confidence interval estimation
+Lez 4 : point estimate and confidence interval estimation
 
-- - - : confidence interval estimation for the difference of two means + experiment on sample data of anorexic girls receiving cognitive behavioural therapy or in control group
+Lez 4 : confidence interval estimation for the difference of two means + experiment on sample data of anorexic girls receiving cognitive behavioural therapy or in control group
 
-- - - : bootstrap confidence intervals
-   
-- - - : Bayesian statistics
+Lez 4 : bootstrap confidence intervals
+
+Lez 4 : Bayesian statistics
