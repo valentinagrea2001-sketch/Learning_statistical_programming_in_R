@@ -14,6 +14,6 @@ Lez 4 : point estimate and confidence interval estimation
 
 Lez 4 : confidence interval estimation for the difference of two means + experiment on sample data of anorexic girls receiving cognitive behavioural therapy or in control group
 
-Lez 4 : bootstrap confidence intervals
+Lez 4 : bootstrap methods for confidence intervals + experiment on bootstrapping for data concerning "books and year of publishing"
 
 Lez 4 : Bayesian statistics
