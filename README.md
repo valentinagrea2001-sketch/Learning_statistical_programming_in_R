@@ -24,6 +24,6 @@ Lez 4 : bootstrap method for confidence intervals + experiment on bootstrapping 
 
 -----
 
-Lez 4 : Bayesian statistics
+Lez 4 : Bayesian statistics VS frequentist statistics
 
 -----
