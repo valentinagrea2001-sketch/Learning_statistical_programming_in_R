@@ -22,6 +22,8 @@ Lez 4 : confidence interval estimation for the difference of two means + experim
 
 Lez 4 : bootstrap method for confidence intervals + experiment on bootstrapping for data concerning "books and year of publishing"
 
+-----
+
 Lez 4 : Bayesian statistics
 
 -----
