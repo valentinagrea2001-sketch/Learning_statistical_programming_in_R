@@ -28,6 +28,6 @@ Lez 4 : Bayesian statistics VS frequentist statistics + beta distributions and B
 
 -----
 
-Lez 5 : Hyphotesis/Significance testing procedure + Type I and Type II errors
+Lez 5 : hyphotesis/significance testing procedure + Type I and Type II errors
 
 -----
