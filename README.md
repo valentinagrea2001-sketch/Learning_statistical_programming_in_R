@@ -30,4 +30,6 @@ Lez 4 : Bayesian statistics VS frequentist statistics + beta distributions and B
 
 Lez 5 : hyphotesis/significance testing procedure + Type I and Type II errors
 
------
+Lez 5 : 1-sample z-tests and t-tests for means and proportions "Is the group different than what expected?"
+
+Lez 5 : 2-sample z-tests and t-tests for means and proportions "Are two separate and independent group different from each other?"
