@@ -27,3 +27,7 @@ Lez 4 : bootstrap method for confidence intervals + experiment on bootstrapping 
 Lez 4 : Bayesian statistics VS frequentist statistics + beta distributions and Bayesian update + Markov Chains MonteCarlo Methods
 
 -----
+
+Lez 5 : Hyphotesis/Significance testing procedure + Type I and Type II errors
+
+-----
