@@ -33,3 +33,5 @@ Lez 5 : hyphotesis/significance testing procedure + Type I and Type II errors
 Lez 5 : 1-sample z-tests and t-tests for means and proportions "Is the group different than what expected?"
 
 Lez 5 : 2-sample z-tests and t-tests for means and proportions "Are two separate and independent groups different from each other?"
+
+Lez 5 : chi-square test : goodnees of fit test (1 categorical variable) and of indipendence (check indipendence or relationship between 2 categorical variables)
