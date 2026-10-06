@@ -1,4 +1,6 @@
-**Collection of exercises from the book "Foundations of Statistics for Data Scientists, with R and Python"**
+# Learning statistical programming in R
+
+## A collection of exercises from the book "Foundations of Statistics for Data Scientists, with R and Python"**
 
 Hi! I am a mathematician with a background in probability theory and stochastic processes. This collection of exercises aims to improve my knowledge in statistics and statistical programming.
 
